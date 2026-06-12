@@ -1,0 +1,11 @@
+Name,Age,Salary,Department,Experience
+Om,21,25000,AI,1
+Raj,22,30000,ML,2
+Priya,,28000,AI,1
+Amit,24,,Data Science,3
+Sneha,23,35000,AI,
+Raj,22,30000,ML,2
+Rohan,-5,40000,ML,2
+Anjali,150,50000,AI,5
+Karan,25,9999999,Data Science,2
+Pooja,24,32000,,2

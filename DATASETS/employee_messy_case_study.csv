@@ -1,0 +1,13 @@
+Employee_ID,Name,Age,Gender,Department,Salary,Experience,Join_Date
+E101,Om,21,Male,AI,25000,1,2024-01-10
+E102,Raj,22,male,ML,30000,2,10/02/2024
+E103,Priya,,FEMALE,AI,28000,1,2024/03/15
+E104,Amit,24,M,Data Science,,3,15-04-2024
+E105,Sneha,23,Female,A.I.,32000,,2024-05-20
+E106,Raj,22,male,ML,30000,2,10/02/2024
+E107,Rohan,-8,MALE,ML,40000,2,2024-06-01
+E108,Anjali,150,female,Artificial Intelligence,50000,5,01-07-2024
+E109,Karan,25,Male,AI,9999999,2,2024-08-12
+E110,Pooja,24,F,,29000,2,
+E111,Vikram,24,Male,ML,31000,2,2024-09-01
+E112,Neha,23,Female,Data Science,34000,2,banana
